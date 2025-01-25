@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navProfile"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/navchatbuysell"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/navlanguage"
+        android:title="Change Language"/>
+    <item
+        android:id="@+id/navhelp"
+        android:title="Support"/>
+    <item
+        android:id="@+id/navsetting"
+        android:title="Setting and privacy"/>
+    <item
+        android:id="@+id/navrefer"
+        android:title="Refer and Earn"/>
+    <item
+        android:id="@+id/navterms"
+        android:title="Terms and Policies"/>
+    <item
+        android:id="@+id/navsignout"
+        android:title="Sign Out"/>
+</menu>
